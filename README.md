@@ -1,7 +1,7 @@
-# Curso de TypeScript - Indra
+# Curso de TypeScript - Indra - Grupo Loyal
 Hola a todos! Bienvenidos y un gusto conocerlos. :wave: :grinning:
 
-Mi nombre es Nicolás y voy a estar guiandoles a lo largo del curso para que aprendan a dominar Typescript y diferentes herramientas relacionadas
+Mi nombre es Nicolás, profesor de Grupo Loyal y voy a estar guiandoles a lo largo del curso para que aprendan a dominar Typescript y diferentes herramientas relacionadas
 al lenguaje para que puedan desarrollar todo tipo de scripts, aplicaciones y utilidades. :computer::computer_mouse:
 
 La idea de este repositorio es que sea utilizado como indice y guía para que puedan obtener rápida y comodamente la información que necesitan paraparticipar en el curso.
