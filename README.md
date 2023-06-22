@@ -6,7 +6,7 @@ al lenguaje para que puedan desarrollar todo tipo de scripts, aplicaciones y uti
 
 La idea de este repositorio es que sea utilizado como indice y guía para que puedan obtener rápida y comodamente la información que necesitan paraparticipar en el curso.
 
-Es importante saber que la información mostrada en este documento puede ser flexible según las necesidades que vallan surgiendo de ustedes durante la cursada.
+Es importante saber que la información mostrada en este documento puede ser flexible según las dudas y necesidades que vallan surgiendo de ustedes durante la cursada.
 
 Indice :bookmark_tabs::
 
