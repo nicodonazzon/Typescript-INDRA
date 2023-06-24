@@ -18,7 +18,7 @@ Indice :bookmark_tabs::
 6. [Arrow Functions.](https://github.com/nicodonazzon/Arrow-Functions/tree/main)
 7. [Definiendo y usando Interfaces.](https://github.com/nicodonazzon/Interfaces-TypeScript)
 8. [Definiendo y usando Function Types.Interfaces para Function types.](https://github.com/nicodonazzon/Function-Types/tree/main)
-9. [Sobrecarga de funciones.](url)
+9. [Sobrecarga de funciones.](https://github.com/nicodonazzon/Sobrecarga-funciones/tree/main)
 10. [Extendiendo Interfaces.](url)
 11. [Implementando interfaces con Clases.](url)
 12. [Creando y usando Clases.](url)
