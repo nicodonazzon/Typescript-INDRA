@@ -12,7 +12,7 @@ Indice :bookmark_tabs::
 
 1. [Introducción ¿Por qué TypeScript?](https://github.com/nicodonazzon/Introduccion-Typescript)
 2. [Instalación y configuración.](https://github.com/nicodonazzon/Instalacion-Configuracion-Typescript/tree/main)
-3. [Herramientas IDE, proyectos.](url)
+3. [Herramientas IDE, proyectos. Opciones de Compilación con tsconfig.](url)
 4. [Variables y Type Annotations.](url)
 5. [Enums y Arrays.](url)
 6. [Arrow Functions.](url)
@@ -27,6 +27,5 @@ Indice :bookmark_tabs::
 15. [Extendiendo Clases, Creando Clases abstractas.](url)
 16. [Namespaces, Modules, Decorators.](url)
 17. [Usando Expresiones Clase.](url)
-18. [Opciones de Compilación con tsconfig.](url)
 
-¡Saludos a todos!
+Saludos a todos, ¡nos vemos en la cursada!
