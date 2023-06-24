@@ -11,7 +11,7 @@ Es importante saber que la información mostrada en este documento puede ser fle
 Indice :bookmark_tabs::
 
 1. [Introducción ¿Por qué TypeScript?](https://github.com/nicodonazzon/Introduccion-Typescript)
-2. [Instalación y configuración.](url)
+2. [Instalación y configuración.](https://github.com/nicodonazzon/Instalacion-Configuracion-Typescript/tree/main)
 3. [Herramientas IDE, proyectos.](url)
 4. [Variables y Type Annotations.](url)
 5. [Enums y Arrays.](url)
