@@ -10,8 +10,6 @@ Es importante saber que la información mostrada en este documento puede ser fle
 
 Indice :bookmark_tabs::
 
-Aquí tienes el texto en el formato solicitado:
-
 1. [Introducción ¿Por qué TypeScript?](https://github.com/nicodonazzon/Introduccion-Typescript)
 2. [Instalación y configuración.](url)
 3. [Herramientas IDE, proyectos.](url)
