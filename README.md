@@ -15,7 +15,7 @@ Indice :bookmark_tabs::
 3. [Herramientas IDE, proyectos. Opciones de Compilación con tsconfig.](https://github.com/nicodonazzon/Herramientas-IDE/tree/main)
 4. [Variables y Type Annotations.](https://github.com/nicodonazzon/Variables-Types-TypeScript/tree/main)
 5. [Enums y Arrays.](https://github.com/nicodonazzon/Enums-Array/tree/main)
-6. [Arrow Functions.](url)
+6. [Arrow Functions.](https://github.com/nicodonazzon/Arrow-Functions/tree/main)
 7. [Definiendo y usando Function Types.](url)
 8. [Definiendo Parámetros.](url)
 9. [Sobrecarga de funciones.](url)
