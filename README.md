@@ -10,23 +10,27 @@ Es importante saber que la información mostrada en este documento puede ser fle
 
 Indice :bookmark_tabs::
 
-1. Introducción ¿Por qué TypeScript?
-2. Instalación y configuración.
-3. Herramientas IDE, proyectos.
-4. Variables y Type Annotations.
-5. Enums y Arrays.
-6. Arrow Functions.
-7. Definiendo y usando Function Types.
-8. Definiendo Parámetros.
-9. Sobrecarga de funciones.
-10. Definiendo y usando Interfaces.
-11. Interfaces para Function types.
-12. Extendiendo Interfaces.
-13. Implementando interfaces con Clases.
-14. Creando y usando Clases.
-15. Extendiendo Clases, Creando Clases abstractas.
-16. Namespaces, Modules, Decorators.
-17. Usando Expresiones Clase.
-18. Opciones de Compilación con tsconfig.
+Aquí tienes el texto en el formato solicitado:
+
+1. [Introducción ¿Por qué TypeScript?](https://github.com/nicodonazzon/Introduccion-Typescript/tree/main)
+2. [Instalación y configuración.](url)
+3. [Herramientas IDE, proyectos.](url)
+4. [Variables y Type Annotations.](url)
+5. [Enums y Arrays.](url)
+6. [Arrow Functions.](url)
+7. [Definiendo y usando Function Types.](url)
+8. [Definiendo Parámetros.](url)
+9. [Sobrecarga de funciones.](url)
+10. [Definiendo y usando Interfaces.](url)
+11. [Interfaces para Function types.](url)
+12. [Extendiendo Interfaces.](url)
+13. [Implementando interfaces con Clases.](url)
+14. [Creando y usando Clases.](url)
+15. [Extendiendo Clases, Creando Clases abstractas.](url)
+16. [Namespaces, Modules, Decorators.](url)
+17. [Usando Expresiones Clase.](url)
+18. [Opciones de Compilación con tsconfig.](url)
+
+Reemplaza "url" con la dirección URL correspondiente para cada punto de la lista.
 
 ¡Saludos a todos!
